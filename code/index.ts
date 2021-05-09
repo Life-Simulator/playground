@@ -15,11 +15,11 @@ class Human {
 const human = new Human({
   name: "Alireza",
   attributes: {
-    social: 0.5,
+    social: 0.6,
     intelligence: 0.8,
     expertise: 0.9,
-    happiness: 0.5,
-    appearance: 0.6,
+    happiness: 0.6,
+    appearance: 0.7,
     selfLove: 0.7,
     fitness: 0.6,
     health: 0.8,
